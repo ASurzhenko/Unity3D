@@ -1,0 +1,79 @@
+Initialize engine version: 5.6.0b4 (f8c731df0021)
+GfxDevice: creating device client; threaded=1
+d3d11: D3D_FEATURE_LEVEL_11_1 not-recognized (only 11.0 runtime installed?)
+Initialize engine version: 5.6.0b4 (f8c731df0021)
+GfxDevice: creating device client; threaded=1
+d3d11: D3D_FEATURE_LEVEL_11_1 not-recognized (only 11.0 runtime installed?)
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Intel(R) Q45/Q43 Express Chipset (ID=0x2e12)
+    Vendor:   Intel
+    VRAM:     434 MB
+    Driver:   8.15.10.2869
+irect3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Intel(R) Q45/Q43 Express Chipset (ID=0x2e12)
+    Vendor:   Intel
+    VRAM:     434 MB
+    Driver:   8.15.10.2869
+Begin MonoManager ReloadAssembly
+Begin MonoManager ReloadAssembly
+Platform alatform assembly: E:\Unity\KingOfTheHilds\King Of The Hill_Data\Managed\UnityEngine.dllngine.dll (this message is ha
+rmlessL
+oading Loading E:\Unity\KingOfTheHill1.4\Builds\King Of The Hill_Data\Managed\UnityEnginto Unity Child Domain
+ Domain
+Platform assembPy: E:\Unity\KingOfThe\Unity\KiBuilds\King Of The Hill_Data\Manhe Hill_Data\Manharp.dll (this message is harmless)
+Loading E:\ (this message is harmless)
+s\KiLoading E:\Unity\KingOfTheHill1.4\BuilSharp.dll into Unill_Dati\Managed\As
+sembly-CSharp.dll into Unity Child Domain
+Platform assembly:PE:\Unity\KingOfTy:eHill1.4\B\KingOfTheHill1.4\Builds\King anaged\UnityEngine.an.dll (this messaageds harmless)
+.UI.dll (this me\Unityis harmless)il
+l1.4\Builds\King Of ThingOfTheHila\Managed\UnityEngine.UI.dll into Unity Child Domain
+e.UI.dll into Unity Child Domain
+Platform assembly: E:\Unity\KingOfTheHill1.4\Builds\King Of The Hill_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Unity\KingOfTheHill1.4\Builds\King Of The Hill_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Unity\KingOfTheHill1.4\Builds\King Of The Hill_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Unity\KingOfTheHill1.4\Builds\King Of The Hill_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Plaatform assembly: E:\Unitty\KingOfTheHill1.4\Builds\King Of The Hill_Data\Managed\UnityyEngine.TestRunne.dll (this message is harmless)
+)
+Loading E:\Unity\KingOfTheHill1.4\Builds\KKing Of The Hill_Data\Mana\Managed\UnityEngestRunner.dll into Unity Child Domain
+main
+Platform assembly: E:\Unity\KingOfTheHill1.4\Builds\King Of The Hill_DaPa\Manage assembly: E:\Unity\KingOfTheHill1.4\Builds\King Of The Hill_Data\Managed\nunit.framework.dll (this message is harmless)
+Loading E:\Unity\KingOfTheHill1.4\Builds\King Of The Hill_Data\Managed\nunit.framework.dll into Unity Child Domain
+ework.dll (this message is harmless)
+Loading E:\Unity\KingOfTheHill1.4\Builds\King Of The Hill_Data\Managed\nunit.framework.dll into Unity Child Domain
+- Completed reload, in  4.088 seconds
+- Completed reload, in  4.091 seconds
+Platform assembly: E:\Unityy\KingOfTheHill1.4\Buildss\\King Of The HHill_Data\Managed\System.Core.dll (this message is harmless)
+
+Platform assembly: E:\Unity\KingOfTheHill1.4\Builds\King Of The Hill_Data\Managed\System.dll (this message is hharmless)
+<RI> Initializing input.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Input initialized.
+desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
+desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1036.730835 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: d90 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 79.985443 ms
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 42.618862 ms (FindLiveObjects: 0.081394 ms CreateObjectMapping: 0.027658 ms MarkObjects: 42.396809 ms  DeleteObjects: 0.106286 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 22.557608 ms
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 392.
+Total: 5.692050 ms (FindLiveObjects: 0.064404 ms CreateObjectMapping: 0.052945 ms MarkObjects: 0.478091 ms  DeleteObjects: 5.089102 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.661425 ms
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 372.
+Total: 0.478486 ms (FindLiveObjects: 0.056896 ms CreateObjectMapping: 0.053735 ms MarkObjects: 0.302659 ms  DeleteObjects: 0.058872 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1440 -> priority: 1 
